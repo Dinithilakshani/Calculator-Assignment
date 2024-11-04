@@ -15,9 +15,6 @@ a {
     color: #fff;
 }
 
-body {
-    background-image: linear-gradient( to bottom right, rgb(8, 15, 121),rgb(32, 132, 226));
-}
 
 .back-video{
     position: absolute;
